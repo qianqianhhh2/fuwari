@@ -1,9 +1,12 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+基于Fuwari的个人博客，cloudflare pages部署
 
 ::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### About me
+> - "What did you do today?"
+> - "High school students who are confused and exploring are one of the lost people in the world."
+> ### My Favorite Anime
+> - **Neon Genesis Evangelion** — A landmark 1995 mecha series. Teenagers pilot giant bio-machines "Eva" to fend off mysterious Angels in a post-apocalyptic world, while wrestling with trauma, identity, and the weight of human connection.
+> - **Cho Kaguya-hime! (COSMIC PRINCESS KAGUYA!)** — A 2026 Netflix original that reimagines *The Tale of the Bamboo Cutter* through VTuber culture, Vocaloid music, and the virtual world "Tsukuyomi." A busy high school girl and a moon princess chase stardom together.
+> - **Serial Experiments Lain** — A 1998 cyberpunk classic. Shy teenager Lain Iwakura is pulled into "the Wired" after emails from a dead classmate arrive, blurring the line between reality, consciousness, and the digital realm.
