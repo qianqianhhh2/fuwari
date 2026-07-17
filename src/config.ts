@@ -21,8 +21,8 @@ export const siteConfig: SiteConfig = {
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			text: "谦谦TWT 版权所有",
+			url: "https://blog.xn--twt-zz0ja.xyz/", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
@@ -30,12 +30,10 @@ export const siteConfig: SiteConfig = {
 		depth: 2, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
-		// Leave this array empty to use the default favicon
-		// {
-		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
-		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		// }
+		{
+		   src: 'src\assets\images\me.jpg',    // Path of the favicon, relative to the /public directory              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+		   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+		 }
 	],
 };
 
