@@ -5,6 +5,7 @@ description: "手把手教你将 JADX-GUI 接入 MCP（Model Context Protocol）
 tags: ["JADX", "MCP", "Android 逆向", "人工智能", "安全分析"]
 category: 教程
 draft: false
+image: "./cover.webp"
 ---
 
 # JADX 接入 MCP 工具完整教程：让 AI 驱动 Android 逆向分析

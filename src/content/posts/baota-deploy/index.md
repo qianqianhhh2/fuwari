@@ -5,7 +5,7 @@ description: "新手向：从安装宝塔面板到部署一个简单的 HTML 单
 tags: ["宝塔面板", "Nginx", "部署", "静态网站", "HTML"]
 category: 教程
 draft: false
-image: "./cover.jpeg"
+image: "./cover.webp"
 ---
 
 # 宝塔面板从零搭建静态 HTML 网站
