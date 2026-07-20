@@ -8,6 +8,8 @@ draft: false
 image: "./cover.jpeg"
 ---
 
+# Copy Fail（CVE-2026-31431）：潜伏 9 年的 Linux 内核提权漏洞全拆解
+
 ## 前言
 
 2026 年 4 月 29 日，韩国 Theori 安全研究团队公开了一个代号 **"Copy Fail"** 的漏洞，编号 **CVE-2026-31431**（CVSS 7.8）。CISA 在 48 小时内将其纳入已知被利用漏洞目录（KEV），Microsoft Defender 也紧急发布了专项分析报告。

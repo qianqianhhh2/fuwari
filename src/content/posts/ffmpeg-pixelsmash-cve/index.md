@@ -8,6 +8,8 @@ draft: false
 image: "./cover.jpeg"
 ---
 
+# PixelSmash（CVE-2026-8461）：一个 50KB 视频文件如何击穿 FFmpeg 生态
+
 ## 前言
 
 2026 年 6 月 22 日，JFrog 安全研究团队披露了一个名为 **PixelSmash** 的漏洞，编号 **CVE-2026-8461**（CVSS 8.8）。漏洞位于 FFmpeg 的 MagicYUV 解码器中，是一个**堆越界写**（Heap Out-of-Bounds Write）。

@@ -8,6 +8,8 @@ draft: false
 image: "./cover.jpeg"
 ---
 
+# Unity IL2CPP 逆向分析完全指南
+
 ## 前言
 
 在 Unity 游戏开发中，IL2CPP 已成为跨平台发布的事实标准。超过 80% 的商业手游项目采用 IL2CPP 作为脚本后端。然而，IL2CPP 将 C# 编译为原生机器码的特性，使得传统的 .NET 反编译工具完全失效。本文将系统梳理 IL2CPP 的编译原理、逆向工具链和实战流程。

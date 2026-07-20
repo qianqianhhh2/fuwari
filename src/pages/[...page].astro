@@ -18,6 +18,7 @@ const len = page.data.length;
 ---
 
 <MainGridLayout>
+    <h1 class="sr-only">谦谦TWT的博客</h1>
     <PostPage page={page}></PostPage>
     <Pagination class="mx-auto onload-animation" page={page} style={`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`}></Pagination>
 </MainGridLayout>

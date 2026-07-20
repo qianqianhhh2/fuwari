@@ -8,6 +8,8 @@ draft: false
 image: "./cover.jpeg"
 ---
 
+# IDA Pro 接入 MCP 工具完整教程：让 AI 驱动逆向工程
+
 ## 前言
 
 MCP（Model Context Protocol，模型上下文协议）是一种标准化协议，用于将 AI 大语言模型（LLM）与外部工具连接起来。在逆向工程领域，**ida-pro-mcp** 是最热门的 MCP 实现，它由 [mrexodia](https://github.com/mrexodia/ida-pro-mcp)（x64dbg 的作者）开发，能让 AI 助手直接读写 IDA Pro 的数据库（`.idb`/`.i64`），实现"对话式逆向"（vibe reversing）。

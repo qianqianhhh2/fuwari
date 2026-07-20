@@ -8,8 +8,9 @@ draft: false
 image: "./cover.jpeg"
 ---
 
-# 推荐
- 自己的项目，感兴趣的可以看看
+# 简音 - 一个现代化的 Android 音乐播放器
+
+自己的项目，感兴趣的可以看看
 
 
 ::github{repo="qianqianhhh2/jianyin"}

@@ -8,6 +8,8 @@ draft: false
 image: "./cover.jpeg"
 ---
 
+# Frida 动态插桩入门实战：从环境搭建到 Hook 脚本编写
+
 ## 前言
 
 Frida 是由 Ole André V. Ravnås 开发的跨平台动态插桩工具包（Dynamic Instrumentation Toolkit）。与其在 IDA Pro 或 Ghidra 中进行「静态分析」不同，Frida 让你在**程序运行时**注入 JavaScript 脚本，实时读取内存、拦截函数调用、修改参数和返回值——也就是所谓的「动态插桩」。
